@@ -1,2 +1,2 @@
-bbranch testing oilerplate for phonegap
+branch testing boilerplate for phonegap
 ===========
