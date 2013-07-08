@@ -1,2 +1,2 @@
-branch testing boilerplate for phonegap
+branch testinA boilerplate for phonegap better readme
 ===========
